@@ -1,0 +1,17 @@
+{
+  "_kind": "browser-payload",
+  "_savedAt": "2025-12-10T10:12:51.553Z",
+  "git": {
+    "owner": "Tushar18Shukla",
+    "repo": "crud",
+    "branch": "main"
+  },
+  "backupType": "cognitivecanvas-encrypted-zip",
+  "fileName": "cognitivecanvas-backup-2025-12-10T10-12-51-530Z.enc.zip",
+  "dataUrl": "data:application/octet-stream;base64,PzbU26ttCMic6cypHFPUKYAQWy/RC0dJI5SJhKIyDF5oE3Xfs95LPlHznVrXGr4nQ2tiWOJPhPCuGCW3mtJ+SzZ3Nb2WuWFomjrZzTVwDiBfip7oGQ==",
+  "mimeType": "application/octet-stream",
+  "encrypted": true,
+  "createdAt": "2025-12-10T10:12:51.549Z",
+  "target": "github",
+  "commitMessage": "chore(backup): add cognitivecanvas-backup-2025-12-10T10-12-51-530Z.enc.zip from CCBackup"
+}
